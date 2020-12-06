@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: https://easyojs.github.io/easy-ojs-master/
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
